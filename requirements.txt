@@ -1,0 +1,4 @@
+emoji==2.2.0
+fpdf==1.7.2
+pathspec==0.11.0
+progress==1.6
